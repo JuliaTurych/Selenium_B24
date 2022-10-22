@@ -32,7 +32,7 @@ if(actTitle.equals(expTitle)){
     System.out.println("Failed: login failed");
 }
 // click logout link
-        driver.findElement(By.linkText("")).click();
+        driver.findElement(By.linkText("Logout")).click();
 
         driver.close();
 
