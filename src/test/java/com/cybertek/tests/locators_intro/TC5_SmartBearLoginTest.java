@@ -10,7 +10,7 @@ public class TC5_SmartBearLoginTest {
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
 
-        String appUrl = "https://www.";
+        String appUrl = "https://www.google.com";
 
 String userName = "Tester";
 String password = "test";
