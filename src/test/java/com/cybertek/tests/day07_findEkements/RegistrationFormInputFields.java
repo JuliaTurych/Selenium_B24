@@ -29,6 +29,8 @@ public class RegistrationFormInputFields {
         for (WebElement input : inputFields) {
             if (input.isDisplayed()) {
                 input.sendKeys("wooden spoon");
+            } else{
+
             }
             driver.quit();
         }
