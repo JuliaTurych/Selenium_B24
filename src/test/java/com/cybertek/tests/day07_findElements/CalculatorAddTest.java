@@ -1,4 +1,4 @@
-package com.cybertek.tests.day07_findEkements;
+package com.cybertek.tests.day07_findElements;
 
 import com.cybertek.utils.WebDriverFactory;
 import org.openqa.selenium.By;
